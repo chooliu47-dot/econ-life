@@ -1,0 +1,290 @@
+[
+  {
+    "id": "liquidity-trap-and-expectation",
+    "titleEn": "Liquidity Traps, Expectations, and the Limits of Easy Money",
+    "titleZh": "流动性陷阱、预期，与宽松货币的边界",
+    "category": "Macroeconomics · Monetary Policy",
+    "minutes": 14,
+    "publishedAt": "2026-04-02",
+    "bodyEn": [
+      "When interest rates approach the zero lower bound, the textbook transmission mechanism of monetary policy begins to fray. Households and firms do not automatically translate cheaper credit into higher spending; they may instead hoard cash balances if they expect stagnation, deflation, or future tax increases. Keynes called this region a liquidity trap: additional money is absorbed into idle balances rather than into transactions that raise aggregate demand.",
+      "The modern restatement is less about cash under mattresses and more about expectations. If agents believe that today's expansion is temporary, or that the central bank will reverse course at the first hint of inflation, the real interest rate relevant for long-horizon investment barely moves. Forward guidance and balance-sheet policy are attempts to reshape that belief system — to convince markets that the policy stance is state-contingent and durable, not a fleeting impulse.",
+      "Yet credibility is a scarce asset. A central bank that has spent years cultivating an inflation-fighting reputation may struggle to promise 'higher for longer' accommodation without looking inconsistent. Conversely, a bank that has tolerated high inflation may find that markets discount its hawkish signals. The expectation channel is therefore path-dependent: history of reaction functions enters today's pricing of risk.",
+      "Fiscal policy re-enters the story precisely because monetary instruments lose traction. Public investment, transfers, and tax design alter disposable income and the term structure of future liabilities. Ricardian equivalence — the claim that households save against future taxes one-for-one — is an elegant null hypothesis more often violated than confirmed. Liquidity-constrained households spend marginal transfers; firms facing collateral constraints invest when demand recovers. Composition matters as much as size.",
+      "Critics of activism warn of misallocation: cheap money may inflate asset prices, encourage zombie firms, and delay creative destruction. These concerns are not frivolous. They imply that the optimal response to a liquidity trap is not endless quantitative easing alone, but a coordinated package: monetary backstops to prevent fire sales, fiscal expansion targeted at multipliers, and structural reforms that raise potential output rather than merely papering over weak demand.",
+      "Cross-border spillovers complicate the picture further. Ultra-loose policy in a reserve-currency economy compresses global risk premia, pushes capital into emerging markets, and later — when tightening begins — can trigger sudden stops. Domestic optimality and global stability need not coincide. This is why debates about the 'international lender of last resort' and swap lines resurface whenever the zero lower bound binds in major jurisdictions.",
+      "For the bilingual professional, the vocabulary of this debate is not ornamental. Distinguishing the zero lower bound from a true liquidity trap, or forward guidance from mere cheap talk, is how one reads a central-bank statement without being captured by its rhetoric. The deeper claim is methodological: macroeconomics at the bound is a theory of beliefs under incomplete insurance, not a mechanical IS-LM diagram.",
+      "Finally, politics shapes what technocrats can promise. Austerity narratives, distributional conflict over who bears inflation, and electoral calendars all truncate the feasible set of credible commitments. A liquidity trap is therefore never only a monetary pathology; it is a joint failure of market confidence and institutional capacity to coordinate countercyclical policy when private agents rationally wait."
+    ],
+    "bodyZh": [
+      "当利率逼近零利率下限，教科书中的货币政策传导机制开始松动。家庭与企业并不会自动把更便宜的信贷转化为更高支出；若它们预期停滞、通缩或未来增税，反而可能囤积现金余额。凯恩斯称这一区域为流动性陷阱：额外货币被吸收进闲置余额，而非进入提升总需求的交易。",
+      "现代重述较少谈论床垫下的现金，而更多谈论预期。若行为人相信今日的扩张是暂时的，或央行会在通胀苗头初现时立刻转向，那么对长期投资真正重要的实际利率几乎不动。前瞻指引与资产负债表政策，正是试图重塑这套信念——说服市场：政策立场是状态依存且可持久的，而非一阵冲动。",
+      "但信誉是稀缺资产。一家多年经营「抗通胀」声誉的央行，可能难以承诺「更久的宽松」而不显得自相矛盾；反之，容忍过高通胀的央行，其鹰派信号又可能被市场打折。预期渠道因此具有路径依赖：反应函数的历史，进入今日风险的定价。",
+      "财政政策之所以重新登场，正因为货币工具失去牵引力。公共投资、转移支付与税制设计改变可支配收入与未来负债的期限结构。李嘉图等价——家庭一对一地为未来税收储蓄——是一个优美却常被违背的原假设。受流动性约束的家庭会花掉边际转移；面临抵押约束的企业在需求回暖时才会投资。结构与规模同样重要。",
+      "对积极干预的批评者警告资源配置扭曲：便宜的钱可能推高资产价格、养活僵尸企业、推迟创造性破坏。这些担忧并非无稽。它们意味着：对流动性陷阱的最优回应，不是无尽的量化宽松本身，而是一套协调组合——用货币托底防止火线抛售，用指向乘数的财政扩张，以及抬升潜在产出的结构性改革，而不是仅仅掩盖疲软需求。",
+      "跨境溢出使图景更复杂。储备货币经济体的极度宽松压缩全球风险溢价，把资本推向新兴市场；随后一旦开始紧缩，又可能触发突然停止。国内最优与全球稳定未必重合。这正是每当主要辖区逼近零利率下限，「国际最后贷款人」与货币互换再度被讨论的原因。",
+      "对双语专业人士而言，这场辩论的词汇并非装饰。把零利率下限与真正的流动性陷阱区分开，或把前瞻指引与廉价空谈区分开，才是不被央行声明修辞俘获的读法。更深的主张是方法论的：边界上的宏观经济学，是不完全保险下的信念理论，而不是机械的 IS-LM 图示。",
+      "最后，政治塑造技术官僚能够承诺什么。紧缩叙事、通胀负担的分配冲突、选举周期，都会截断可信承诺的可行集。因此，流动性陷阱从来不只是货币病理；它是市场信心与制度协调逆周期政策之能力的共同失灵——当私人行为人理性地选择等待之时。"
+    ],
+    "vocab": [
+      {
+        "word": "zero lower bound",
+        "phonetic": "/ˌzɪərəʊ ˈləʊə baʊnd/",
+        "definitionZh": "零利率下限：名义利率无法再显著降到零以下的约束",
+        "definitionEn": "The constraint that nominal interest rates cannot fall materially below zero",
+        "example": "Policy near the zero lower bound relies more on expectations."
+      },
+      {
+        "word": "liquidity trap",
+        "phonetic": "/lɪˈkwɪdəti træp/",
+        "definitionZh": "流动性陷阱：新增货币被闲置余额吸收、难以刺激需求的状态",
+        "definitionEn": "A situation where extra money is absorbed into idle balances rather than spending",
+        "example": "In a liquidity trap, cutting rates further may achieve little."
+      },
+      {
+        "word": "forward guidance",
+        "phonetic": "/ˈfɔːwəd ˈɡaɪdns/",
+        "definitionZh": "前瞻指引：央行对未来政策路径的沟通以塑造预期",
+        "definitionEn": "Central-bank communication about the future path of policy to shape expectations",
+        "example": "Forward guidance tries to anchor long-term rates."
+      },
+      {
+        "word": "Ricardian equivalence",
+        "phonetic": "/rɪˈkɑːdiən ɪˈkwɪvələns/",
+        "definitionZh": "李嘉图等价：财政赤字被私人储蓄一对一抵消的理论命题",
+        "definitionEn": "The proposition that deficit spending is offset one-for-one by private saving",
+        "example": "Ricardian equivalence is often violated by liquidity constraints."
+      },
+      {
+        "word": "sudden stop",
+        "phonetic": "/ˈsʌdn stɒp/",
+        "definitionZh": "突然停止：资本流入骤然中断并引发外部调整危机",
+        "definitionEn": "An abrupt halt in capital inflows that forces sharp external adjustment",
+        "example": "Tightening abroad can trigger a sudden stop."
+      },
+      {
+        "word": "state-contingent",
+        "phonetic": "/steɪt kənˈtɪndʒənt/",
+        "definitionZh": "状态依存的：随经济状态而条件化调整的",
+        "definitionEn": "Dependent on particular economic states or conditions",
+        "example": "A state-contingent rule is more credible than a fixed pledge."
+      }
+    ]
+  },
+  {
+    "id": "care-work-and-gdp",
+    "titleEn": "Unpaid Care Work, GDP Blind Spots, and Feminist Accounting",
+    "titleZh": "无偿照护劳动、GDP 盲区与女性主义核算",
+    "category": "Feminist Economics · Measurement",
+    "minutes": 15,
+    "publishedAt": "2026-04-09",
+    "bodyEn": [
+      "Gross domestic product was designed to track market production for wartime planning and postwar management. It was never a comprehensive welfare index. Feminist economists have long argued that the exclusion of unpaid care — cooking, cleaning, eldercare, emotional labor inside households — systematically understates the economic contribution of women and distorts policy priorities toward what is priced rather than what sustains life.",
+      "The analytical move is not merely to 'add care into GDP' as a moral gesture. It is to recognize that market output rests on a reproductive base. Without replenished labor power, socialized skills, and daily maintenance of bodies, wage labor collapses. Treating the household as a black box outside production is therefore a methodological choice with distributional consequences: taxes, pensions, and 'activation' policies treat carers as residual, then wonder why gender gaps persist.",
+      "Time-use surveys make the invisible countable. Hours spent on direct care and indirect domestic work rival or exceed formal employment in many economies. When valued at replacement cost or opportunity cost, the imputed magnitudes are large enough to change rankings of living standards and to reframe debates about 'growth'. Yet valuation itself is contested: using market wages risks importing gendered wage discrimination into the satellite account; using a single low wage risks trivializing skilled care.",
+      "Policy follows measurement. If childcare is invisible, austerity that cuts public nurseries appears as fiscal prudence rather than a cost shift onto unpaid women's time. If eldercare is privatized without counting household absorption, 'efficiency' is an accounting illusion. Feminist fiscal analysis therefore asks: who pays in money, who pays in time, and whose time is treated as infinitely elastic?",
+      "Intersectionality sharpens the critique. Care burdens are not evenly distributed across class, race, migration status, and disability. Migrant domestic workers often fill gaps left by dual-earner professional households in rich cities, creating global care chains that export emotional labor while receiving thin social protection. A national satellite account that ignores these chains will misread domestic 'progress'.",
+      "Marketization is an incomplete answer. Paying for care can raise recognition and bargaining power, but it can also commodify intimate relations and create low-wage pink-collar segments unless wages, training, and collective bargaining are secured. Public provisioning — universal childcare, parental leave that is non-transferable across genders, long-term care insurance — socializes risk instead of leaving it to household bargaining under asymmetric power.",
+      "At the firm level, the 'ideal worker' norm — uninterrupted availability, geographic mobility, presenteeism — is incompatible with caregiving without a secondary earner absorbing slack. Human-capital models that treat career interruptions as pure productivity loss ignore how institutions could redesign careers: job sharing, compressed schedules, and evaluation metrics that reward output rather than face time. Closing the gender wage gap without redesigning the care regime is arithmetic theater.",
+      "For readers training advanced English, this literature supplies a dense lexicon: reproductive labor, satellite accounts, care chains, presenteeism, commodification. More importantly, it trains a habit of reading official statistics as political artifacts. When a dashboard celebrates GDP while care intensity rises, the silence is not neutral — it is a theory of value wearing the mask of measurement."
+    ],
+    "bodyZh": [
+      "国内生产总值起初是为战时计划与战后管理追踪市场生产而设计的，从来不是全面的福利指数。女性主义经济学家长期主张：排除无偿照护——烹饪、清洁、养老、家庭内的情感劳动——会系统性地低估女性的经济贡献，并把政策优先项扭曲到「被定价之物」，而非「维系生命之物」。",
+      "分析动作不只是把照护「加进 GDP」当作道德姿态，而是承认市场产出建立在再生产基础之上。若劳动力无法被补充、技能无法被社会化、身体无法被日常维护，雇佣劳动就会崩塌。把家庭当作生产之外的黑箱，因此是一种带有分配后果的方法论选择：税收、养老金与「激活」政策把照护者当作残余，然后惊讶于性别差距为何持续。",
+      "时间使用调查让不可见变得可计数。在许多经济体中，直接照护与间接家务的小时数可与正式就业匹敌甚至超过。若以重置成本或机会成本估值，推算规模足以改变生活水平排名，并重塑关于「增长」的辩论。但估值本身充满争议：用市场工资可能把性别工资歧视带进附属账户；用单一低工资又可能把高技能照护琐碎化。",
+      "政策跟随度量。若托育不可见，削减公立托儿所的紧缩就会显得像财政审慎，而非把成本转嫁到女性无偿时间上。若养老被私有化却不计家庭吸收，所谓「效率」就是会计幻觉。女性主义财政分析因此追问：谁用金钱支付，谁用时间支付，谁的时间被当作无限有弹性？",
+      "交叉性使批判更锋利。照护负担并不在阶级、种族、移民身份与残障之间均匀分布。移民家政工人常填补富裕城市双职工专业家庭留下的缺口，形成全球照护链：输出情感劳动，却只获得薄弱的社会保护。忽视这些链条的国民附属账户，会误读国内的「进步」。",
+      "市场化是不完整的答案。为照护付费可以提高承认与议价力，但也可能商品化亲密关系，并在缺乏工资、培训与集体谈判保障时制造低薪粉领部门。公共供给——普惠托育、不可在性别间转让的育儿假、长期护理保险——把风险社会化，而不是留给权力不对称下的家庭讨价还价。",
+      "在企业层面，「理想工人」规范——不间断可得、地域流动、出勤主义——若没有第二收入者吸收松弛，就与照护不相容。把职业中断当作纯生产率损失的人力资本模型，忽视了制度可以如何重设职业：工作分享、压缩工时、奖励产出而非露面时间的考核。不重设照护体制而去弥合性别工资差距，只是算术剧场。",
+      "对训练高级英语的读者，这套文献提供密集词库：再生产劳动、附属账户、照护链、出勤主义、商品化。更重要的是，它培养一种把官方统计当作政治产物来阅读的习惯。当仪表盘庆祝 GDP 而照护强度上升时，沉默并非中立——那是戴着度量面具的价值理论。"
+    ],
+    "vocab": [
+      {
+        "word": "reproductive labor",
+        "phonetic": "/ˌriːprəˈdʌktɪv ˈleɪbə/",
+        "definitionZh": "再生产劳动：维持劳动力与日常生活的照护与家务劳动",
+        "definitionEn": "Care and domestic work that sustains labor power and daily life",
+        "example": "Reproductive labor underpins market production."
+      },
+      {
+        "word": "satellite account",
+        "phonetic": "/ˈsætəlaɪt əˈkaʊnt/",
+        "definitionZh": "附属账户：在核心国民账户之外单独核算特定活动的统计框架",
+        "definitionEn": "A statistical framework that measures activities outside the core national accounts",
+        "example": "A care satellite account makes unpaid work visible."
+      },
+      {
+        "word": "global care chain",
+        "phonetic": "/ˈɡləʊbl keə tʃeɪn/",
+        "definitionZh": "全球照护链：照护劳动跨国转移形成的层级链条",
+        "definitionEn": "A transnational hierarchy in which care labor is transferred across borders",
+        "example": "Migration often lengthens the global care chain."
+      },
+      {
+        "word": "presenteeism",
+        "phonetic": "/ˌpreznˈtiːɪzəm/",
+        "definitionZh": "出勤主义：以到场与可见忙碌衡量贡献的工作规范",
+        "definitionEn": "A workplace norm that equates presence and visible busyness with contribution",
+        "example": "Presenteeism penalizes caregivers unfairly."
+      },
+      {
+        "word": "commodification",
+        "phonetic": "/kəˌmɒdɪfɪˈkeɪʃn/",
+        "definitionZh": "商品化：把非市场关系转化为可买卖商品的过程",
+        "definitionEn": "The process of turning non-market relations into market goods",
+        "example": "Commodification of care raises recognition but also new risks."
+      },
+      {
+        "word": "intersectionality",
+        "phonetic": "/ˌɪntəsekʃəˈnæləti/",
+        "definitionZh": "交叉性：多重社会身份叠加产生的复合压迫/优势",
+        "definitionEn": "Overlapping social identities that create compounded disadvantage or privilege",
+        "example": "Intersectionality reframes who bears unpaid care."
+      }
+    ]
+  },
+  {
+    "id": "adverse-selection-lemons",
+    "titleEn": "Adverse Selection, Lemons Markets, and Institutional Repair",
+    "titleZh": "逆向选择、柠檬市场与制度修补",
+    "category": "Microeconomics · Information",
+    "minutes": 13,
+    "publishedAt": "2026-04-16",
+    "bodyEn": [
+      "Akerlof's lemons model remains one of the cleanest demonstrations that asymmetric information can destroy mutually beneficial trade. When sellers know quality and buyers observe only averages, high-quality goods may exit, averages fall, and the market unravels toward low quality — or toward no trade at all. The pathology is not greed; it is rational updating under opacity.",
+      "Insurance markets dramatize the same logic. If premiums are pooled and risk types are private information, higher-risk agents disproportionately buy coverage (adverse selection), pushing premiums up and driving lower-risk agents out. Equilibrium may involve coverage limits, screening menus, or market collapse. Empirical work in health insurance has repeatedly found selection effects that force regulators to choose between community rating and mandate-style participation rules.",
+      "Signaling and screening are complementary repairs. Education as a signal (Spence) can separate types if the signal is differentially costly; warranties, brands, and certifications attempt costly signaling of quality. Screening by insurers — deductibles, waiting periods, medical underwriting where allowed — sorts types by willingness to accept contract features. Each repair creates new distortions: signaling races waste resources; aggressive screening can exclude precisely those who need coverage.",
+      "Moral hazard is often confused with adverse selection but is temporally different: it arises after a contract, when insured agents take less care because losses are shared. The policy toolkit overlaps — coinsurance, monitoring, experience rating — yet diagnosis matters. Treating selection as hazard, or vice versa, yields blunt instruments that punish the wrong margin.",
+      "Digital platforms intensify both problems and solutions. Rating systems and escrow reduce lemon risk in peer-to-peer markets; algorithmic pricing and personalized offers can also enable fine-grained selection against vulnerable users. Transparency mandates help only if verifiable. Cheap talk proliferates online; costly verification remains scarce.",
+      "Labor markets exhibit related unraveling. If employers cannot observe productivity easily, they may rely on credentials, referrals, and probation — all imperfect. Statistical discrimination emerges when group averages substitute for individual signals, locking in inequality even without animus. Affirmative interventions and better assessment technologies are competing theories of repair with different error costs.",
+      "Development economics applies the lemon logic to credit and land. Without collateral or credit histories, lenders ration quantity rather than raise price alone — Stiglitz-Weiss credit rationing. Microfinance, group lending, and public credit registries are institutional attempts to manufacture information that markets will not spontaneously produce.",
+      "The bilingual takeaway is precision. 'Information asymmetry' is a family of failures; adverse selection, moral hazard, and signaling costs are distinct members. Reading a fintech white paper or an insurance reform through this taxonomy turns marketing language into testable claims — and keeps flashcards tied to mechanisms rather than slogans."
+    ],
+    "bodyZh": [
+      "阿克洛夫的柠檬模型仍是最清晰的演示之一：信息不对称可以摧毁互利交易。当卖方知道质量而买方只观察到平均值，高质量商品可能退出，平均值下降，市场朝低质量展开——乃至完全无交易。病理不在贪婪，而在不透明下的理性更新。",
+      "保险市场把同一逻辑戏剧化。若保费联营而风险类型是私人信息，高风险行为人会不成比例地购买保障（逆向选择），推高保费并挤出低风险行为人。均衡可能包含保额上限、筛选菜单，或市场崩溃。健康保险的经验研究反复发现选择效应，迫使监管者在社区统一费率与强制参与式规则之间抉择。",
+      "信号与筛选是互补的修补。教育作为信号（斯彭斯）可在成本差异足够时分离类型；保修、品牌与认证试图用昂贵信号标示质量。保险人的筛选——免赔额、等待期、在允许处进行核保——按接受合约特征的意愿给类型排序。每种修补都制造新扭曲：信号竞赛浪费资源；激进筛选可能排除恰恰最需要保障的人。",
+      "道德风险常与逆向选择混淆，但时间结构不同：它发生在缔约之后，被保险人因损失被分担而减少谨慎。政策工具箱有重叠——共付、监控、经验费率——但诊断很重要。把选择当作风险，或反过来，都会在错误的边际上使用钝器。",
+      "数字平台同时强化问题与解决方案。评分系统与托管降低点对点市场的柠檬风险；算法定价与个性化报价也能对脆弱用户进行精细选择。透明度指令只有在可核验时才有帮助。网上廉价空谈泛滥；昂贵核验仍然稀缺。",
+      "劳动力市场呈现相关的展开。若雇主难以观察生产率，就会依赖文凭、推荐与试用——皆不完美。当群体平均值替代个体信号时，统计性歧视出现，即使没有敌意也会固化不平等。平权干预与更好的评估技术是相互竞争的修补理论，错误成本不同。",
+      "发展经济学把柠檬逻辑用于信贷与土地。没有抵押或征信时，贷款人往往配给数量而非只提高价格——斯蒂格利茨-韦斯信贷配给。小额信贷、团体贷款与公共征信登记，是制度试图制造市场不会自发生产的信息。",
+      "双语要点在于精确。「信息不对称」是一类失灵；逆向选择、道德风险与信号成本是不同成员。用这套分类法读金融科技白皮书或保险改革，能把营销语言变成可检验命题——也让闪卡绑定机制，而非口号。"
+    ],
+    "vocab": [
+      {
+        "word": "adverse selection",
+        "phonetic": "/ˈædvɜːs sɪˈlekʃn/",
+        "definitionZh": "逆向选择：隐藏信息导致高风险/低质量类型过度参与",
+        "definitionEn": "Selection of worse types into a market because of hidden information",
+        "example": "Adverse selection can unravel an insurance pool."
+      },
+      {
+        "word": "moral hazard",
+        "phonetic": "/ˈmɒrəl ˈhæzəd/",
+        "definitionZh": "道德风险：缔约后因激励改变而减少谨慎或努力",
+        "definitionEn": "Post-contract change in behavior when someone else bears part of the risk",
+        "example": "Coinsurance mitigates moral hazard."
+      },
+      {
+        "word": "asymmetric information",
+        "phonetic": "/ˌeɪsɪˈmetrɪk ˌɪnfəˈmeɪʃn/",
+        "definitionZh": "信息不对称：交易一方拥有另一方缺乏的相关信息",
+        "definitionEn": "A situation where one party knows more relevant information than the other",
+        "example": "Asymmetric information explains lemons markets."
+      },
+      {
+        "word": "credit rationing",
+        "phonetic": "/ˈkredɪt ˈræʃnɪŋ/",
+        "definitionZh": "信贷配给：即使愿付更高利率也无法获得贷款的数量限制",
+        "definitionEn": "Limiting loan quantity rather than clearing only via higher interest rates",
+        "example": "Credit rationing appears when lenders fear hidden risk."
+      },
+      {
+        "word": "statistical discrimination",
+        "phonetic": "/stəˈtɪstɪkl dɪˌskrɪmɪˈneɪʃn/",
+        "definitionZh": "统计性歧视：用群体统计特征替代个体信息的决策",
+        "definitionEn": "Using group averages as proxies when individual signals are noisy",
+        "example": "Statistical discrimination can persist without prejudice."
+      },
+      {
+        "word": "unraveling",
+        "phonetic": "/ʌnˈrævlɪŋ/",
+        "definitionZh": "市场展开/瓦解：质量或类型逐步退出以至交易萎缩",
+        "definitionEn": "The process by which better types exit and the market shrinks or collapses",
+        "example": "Without warranties, the market may start unraveling."
+      }
+    ]
+  },
+  {
+    "id": "comparative-advantage-beyond-textbook",
+    "titleEn": "Comparative Advantage Beyond the Textbook: Chains, Rents, and Power",
+    "titleZh": "超越教科书的比较优势：链条、租金与权力",
+    "category": "Trade · Political Economy",
+    "minutes": 14,
+    "publishedAt": "2026-04-23",
+    "bodyEn": [
+      "Ricardo's insight — trade according to comparative rather than absolute advantage — still disciplines naive autarky. Yet the two-good, two-country parable can mislead when production is fragmented across global value chains. What a country 'exports' may be assembling, logistics, or a thin slice of intellectual property; measured trade balances then exaggerate or understate who captures value added.",
+      "Within chains, bargaining power and intangible assets allocate rents. Lead firms that own brands, standards, and data often appropriate a disproportionate share of surplus, while contract manufacturers compete on razor-thin margins. Comparative advantage in tasks is therefore inseparable from industrial organization: upgrading requires moving into design, standards-setting, and relationship-specific investments, not only cheaper labor.",
+      "Dynamic comparative advantage complicates static advice. Infant-industry arguments claim temporary protection can shift a country's production possibility frontier by generating learning-by-doing and agglomeration. The empirical record is mixed: East Asian developmental states sometimes succeeded with disciplined reciprocity; many others produced protected inefficiency. The policy question is not 'free trade versus protection' in the abstract, but which institutions can withdraw privileges when learning fails.",
+      "Factor-content theorems predict that trade redistributes income between skilled and unskilled labor within countries. Even if aggregate gains exist, politically salient losers can block liberalization unless compensation is credible. Trade adjustment assistance is often underfunded relative to the scale of localized shocks — a political-economy failure that free-trade rhetoric underestimates.",
+      "Feminist and labor critiques add another layer: export strategies that rely on feminized, precarious assembly work can raise foreign exchange while reproducing gendered segmentation. 'Competitiveness' measured by unit labor costs may hide unpaid social reproduction that keeps wages low. A chain analysis that stops at the factory gate inherits GDP's blind spots.",
+      "Geoeconomics has returned with tariffs, export controls, and friend-shoring. These instruments pursue resilience and strategic autonomy as much as efficiency. Comparative advantage still describes opportunity cost, but opportunity cost now includes exposure to coercion and supply disruption. Diversification is a hedge; it is also a costly deviation from pure specialization.",
+      "Services and data intensify measurement puzzles. Cross-border digital services, remote professional work, and platform intermediation blur the border between trade and migration. Mode-four style movement of people remains politically constrained even as Mode-one digital delivery expands — a wedge that shapes who can sell skill internationally.",
+      "Advanced vocabulary here includes value added, agglomeration, reciprocity, precarious work, and geoeconomics. Use them to interrogate headlines: when a politician promises 'bringing jobs home', ask which tasks, which rents, and which care burdens move with them. Comparative advantage remains a sharp knife — provided one does not mistake the knife for the whole kitchen."
+    ],
+    "bodyZh": [
+      "李嘉图的洞见——按比较优势而非绝对优势贸易——仍能约束天真的闭关主张。但当生产沿着全球价值链碎片化时，两国两商品寓言可能误导。一国「出口」的或许是组装、物流或知识产权的薄切片；以贸易余额度量会夸大或低估谁捕获了增加值。",
+      "在链条内部，议价力与无形资产分配租金。拥有品牌、标准与数据的主导企业往往占有不成比例的剩余，而合约制造商在极薄利润上竞争。任务层面的比较优势因此与产业组织不可分：升级需要进入设计、标准制定与关系专用性投资，而不仅是更便宜的劳动。",
+      "动态比较优势使静态建议复杂化。幼稚产业论主张：暂时保护可通过干中学与集聚移动一国的生产可能边界。经验记录好坏参半：东亚发展型国家有时以有纪律的互惠取得成功；许多其他地方则制造了被保护的低效。政策问题不是抽象的「自由贸易对保护」，而是：当学习失败时，哪些制度能收回特权。",
+      "要素含量定理预测贸易会在一国内的熟练与非熟练劳动之间再分配收入。即使存在总量收益，政治上显眼的受损者也可能阻挠自由化，除非补偿可信。贸易调整援助相对地方化冲击的规模往往资金不足——自由贸易修辞低估了这一政治经济学失败。",
+      "女性主义与劳动批判再加一层：依赖女性化、不稳定组装劳动的出口战略，可以增加外汇，同时再生产性别分割。以单位劳动成本度量的「竞争力」可能掩盖使工资保持低位的无偿社会再生产。停在工厂大门的链条分析，继承了 GDP 的盲区。",
+      "地缘经济随关税、出口管制与友岸外包回归。这些工具追求韧性与战略自主，效率只是其一。比较优势仍描述机会成本，但机会成本现在包含受胁迫与供应中断的暴露。多元化是对冲；它也是对纯专业化的昂贵偏离。",
+      "服务与数据加剧度量谜题。跨境数字服务、远程专业工作与平台中介，模糊了贸易与移民的边界。第四模式式的人员流动仍受政治约束，而第一模式的数字交付却在扩张——这一楔子塑造了谁能在国际上出售技能。",
+      "此处的高级词汇包括增加值、集聚、互惠、不稳定劳动与地缘经济。用它们质问标题：当政客承诺「把工作带回家」，要问哪些任务、哪些租金、哪些照护负担随之移动。比较优势仍是锋利的刀——只要别把刀误认成整个厨房。"
+    ],
+    "vocab": [
+      {
+        "word": "global value chain",
+        "phonetic": "/ˈɡləʊbl ˈvæljuː tʃeɪn/",
+        "definitionZh": "全球价值链：跨境分段完成的生产与价值捕获网络",
+        "definitionEn": "A cross-border network of fragmented production stages and value capture",
+        "example": "Upgrading inside a global value chain is harder than assembling."
+      },
+      {
+        "word": "agglomeration",
+        "phonetic": "/əˌɡlɒməˈreɪʃn/",
+        "definitionZh": "集聚：经济活动在空间上集中带来的外部性",
+        "definitionEn": "Spatial clustering of economic activity that generates externalities",
+        "example": "Agglomeration can create dynamic comparative advantage."
+      },
+      {
+        "word": "infant industry",
+        "phonetic": "/ˈɪnfənt ˈɪndəstri/",
+        "definitionZh": "幼稚产业：需暂时保护以完成学习与规模化的新兴产业",
+        "definitionEn": "A young industry argued to need temporary protection to learn and scale",
+        "example": "Infant-industry policy fails without exit discipline."
+      },
+      {
+        "word": "precarious work",
+        "phonetic": "/prɪˈkeəriəs wɜːk/",
+        "definitionZh": "不稳定劳动：缺乏保障、工时与收入高度不确定的就业",
+        "definitionEn": "Employment with insecure hours, pay, and weak social protection",
+        "example": "Export zones often rely on precarious work."
+      },
+      {
+        "word": "geoeconomics",
+        "phonetic": "/ˌdʒiːəʊˌiːkəˈnɒmɪks/",
+        "definitionZh": "地缘经济：以经济工具追求战略与安全目标的实践",
+        "definitionEn": "The use of economic instruments to pursue strategic and security goals",
+        "example": "Export controls are a geoeconomics tool."
+      },
+      {
+        "word": "value added",
+        "phonetic": "/ˈvæljuː ˈædɪd/",
+        "definitionZh": "增加值：产出减去中间投入后的价值贡献",
+        "definitionEn": "Output minus intermediate inputs; the contribution captured at a stage",
+        "example": "Gross exports overstate value added in assembly hubs."
+      }
+    ]
+  }
+]
